@@ -8,7 +8,9 @@
 * Definire una logica che calcoli il Risk.
 
 ## Risk Analysis process flow
+![prova](RA.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDYyODQ0NF19
+eyJoaXN0b3J5IjpbLTk2ODA0Mjc4LC00MDQ2Mjg0NDRdfQ==
 -->
